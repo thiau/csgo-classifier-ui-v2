@@ -1,0 +1,25 @@
+{
+  "name": "csgo-classifier-ui-v2",
+  "version": "1.0.0",
+  "description": "V2 of CSGO Classifier UI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiau/csgo-classifier-ui-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiau/csgo-classifier-ui-v2/issues"
+  },
+  "homepage": "https://github.com/thiau/csgo-classifier-ui-v2#readme",
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
